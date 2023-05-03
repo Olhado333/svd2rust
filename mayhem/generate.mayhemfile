@@ -1,0 +1,5 @@
+project: svd2rust
+target: generate
+duration: 600
+cmds:
+    - cmd: /fuzzers/fuzz_generate
